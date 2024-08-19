@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nik_soni2910" target="blank"><img src="https://img.shields.io/twitter/follow/nik_soni2910?logo=twitter&style=for-the-badge" alt="nik_soni2910" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Web Development, Machine Learning**
 
 - 💬 Ask me about **Flutter, Dart, Java**
 
